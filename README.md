@@ -1,119 +1,50 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2026-06-17T11:30:50.552Z",
-  "profile": {
-    "title": "Dhanesh",
-    "subtitle": "FullStack Engineer & Ai Developer",
-    "currentWork": "A privacy-first, fully local video surveillance platform that runs a two-stage AI pipeline (YOLO11n + moondream2) entirely on consumer hardware no cloud, no data leaving the network.",
-    "currentLearn": "System Architecturing, Application Optimization and Local Ai Deployment",
-    "collaborateOn": "SpringBoot Projects, Next.js and AI projects",
-    "helpWith": "Open to code reviews and feedback on Android (Java) architecture and Cross-Platform applications",
-    "ama": "Android Development, SpringBoot,  React/Next.js, and local AI implementation.",
-    "contact": "dhaneshradhakrishnan2@gmail.com",
-    "funFact": "Singin while Developing feels good! \nGuitar on lap! Coffee on the table!",
-    "visitorsBadge": true,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": true,
-    "githubStats": true,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": true,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": true,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0",
-    "blog": "https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0",
-    "resume": "https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0"
-  },
-  "social": {
-    "github": "DhaneshRadhakrishnan",
-    "dev": "",
-    "linkedin": "https://www.linkedin.com/in/dhanesh-radhakrishnan/",
-    "codepen": "",
-    "stackoverflow": "https://stackoverflow.com/users/24650803/dhanesh-radhakrishnan",
-    "kaggle": "",
-    "codesandbox": "",
-    "fb": "https://www.facebook.com/radhakrishnan.dhanesh/",
-    "instagram": "dhanesh_4o4",
-    "twitter": "",
-    "dribbble": "",
-    "behance": "",
-    "medium": "https://medium.com/@dhaneshradhakrishnan2",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "",
-    "codeforces": "",
-    "leetcode": "",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "https://www.geeksforgeeks.org/profile/dhaneshradh3io9",
-    "discord": "mr_pyrose",
-    "rssurl": "",
-    "twitterBadge": false
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "android",
-    "appwrite",
-    "arduino",
-    "aws",
-    "bootstrap",
-    "docker",
-    "fastapi",
-    "figma",
-    "firebase",
-    "gcp",
-    "git",
-    "huggingface",
-    "java",
-    "javascript",
-    "mysql",
-    "nextjs",
-    "nodejs",
-    "numpy",
-    "ollama",
-    "photoshop",
-    "php",
-    "postgresql",
-    "postman",
-    "python",
-    "rabbitMQ",
-    "react",
-    "redis",
-    "sass",
-    "seaborn",
-    "spring",
-    "sqlite",
-    "tailwind",
-    "typescript"
-  ]
-}
+# Hi 👋, I'm Dhanesh
+
+### FullStack Engineer & Ai Developer
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhaneshRadhakrishnan&label=Profile views&color=0e75b6&style=flat" alt="DhaneshRadhakrishnan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DhaneshRadhakrishnan" alt="DhaneshRadhakrishnan" /></a> </p>
+
+- 🔭 I'm currently working on **A privacy-first, fully local video surveillance platform that runs a two-stage AI pipeline (YOLO11n + moondream2) entirely on consumer hardware no cloud, no data leaving the network.**
+
+- 🌱 I'm currently learning **System Architecturing, Application Optimization and Local Ai Deployment**
+
+- 👯 I'm looking to collaborate on **SpringBoot Projects, Next.js and AI projects**
+
+- 🤝 I'm looking for help with **Open to code reviews and feedback on Android (Java) architecture and Cross-Platform applications**
+
+- 💬 Ask me about **Android Development, SpringBoot,  React/Next.js, and local AI implementation.**
+
+- 📫 How to reach me **dhaneshradhakrishnan2@gmail.com**
+
+- ⚡ Fun fact **Singin while Developing feels good! 
+Guitar on lap! Coffee on the table!**
+
+- 👨‍💻 All of my projects are available at **[https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0](https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0)**
+
+- 📝 I regularly write articles on **[https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0](https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0)**
+
+- 📄 Know about my experiences **[https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0](https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/DhaneshRadhakrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DhaneshRadhakrishnan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanesh-radhakrishnan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhanesh-radhakrishnan/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24650803/dhanesh-radhakrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24650803/dhanesh-radhakrishnan" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/radhakrishnan.dhanesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/radhakrishnan.dhanesh/" height="30" width="40" /></a>
+<a href="https://instagram.com/dhanesh_4o4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhanesh_4o4" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@dhaneshradhakrishnan2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@dhaneshradhakrishnan2" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/dhaneshradh3io9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/dhaneshradh3io9" height="30" width="40" /></a>
+<a href="https://discord.gg/mr_pyrose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mr_pyrose" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/appwrite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=appwrite" alt="appwrite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhaneshRadhakrishnan&show_icons=true&locale=en&layout=compact" alt="DhaneshRadhakrishnan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DhaneshRadhakrishnan&show_icons=true&locale=en" alt="DhaneshRadhakrishnan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DhaneshRadhakrishnan&" alt="DhaneshRadhakrishnan" /></p>
+
