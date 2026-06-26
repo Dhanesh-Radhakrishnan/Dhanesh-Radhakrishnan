@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dhaneshradhakrishnan2@gmail.com**
 
-- ⚡ Fun fact **Singin while Developing feels good! 
+- ⚡ Fun fact **Singing while Developing feels good! 
 Guitar on lap! Coffee on the table!**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/DhaneshRadhakrishnan](https://github.com/DhaneshRadhakrishnan)**
