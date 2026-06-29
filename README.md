@@ -14,7 +14,7 @@
 -  **Looking to collaborate on:** Spring Boot, Next.js, and local AI initiatives.
 -  **Looking for help with:** Open to code reviews and feedback on Android (Java) architecture and cross-platform applications.
 -  **Ask me about:** Android Development, Spring Boot, React/Next.js, and local LLM/VLM implementations.
--  **Fun fact:** Singing while developing feels amazing! Guitar on lap, coffee on the table. ☕🎸
+-  **Fun fact:** Singing while developing feels amazing! Guitar on lap, coffee on the table.
 
 ---
 
