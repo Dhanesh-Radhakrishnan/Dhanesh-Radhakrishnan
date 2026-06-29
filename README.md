@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dhanesh
+# Hi, I'm Dhanesh
 ### FullStack Engineer & AI Developer
 
 <p align="left">
@@ -7,14 +7,14 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🔭 **Currently working on:** A privacy-first, fully local video surveillance platform running a two-stage AI pipeline (YOLO11n + moondream2) entirely on consumer hardware—no cloud, no data leaving the network.
-- 🌱 **Currently learning:** System Architecture, Application Optimization, and Local AI Deployment.
-- 👯 **Looking to collaborate on:** Spring Boot, Next.js, and local AI initiatives.
-- 🤝 **Looking for help with:** Open to code reviews and feedback on Android (Java) architecture and cross-platform applications.
-- 💬 **Ask me about:** Android Development, Spring Boot, React/Next.js, and local LLM/VLM implementations.
-- ⚡ **Fun fact:** Singing while developing feels amazing! Guitar on lap, coffee on the table. ☕🎸
+-  **Currently working on:** A privacy-first, fully local video surveillance platform running a two-stage AI pipeline (YOLO11n + moondream2) entirely on consumer hardware—no cloud, no data leaving the network.
+-  **Currently learning:** System Architecture, Application Optimization, and Local AI Deployment.
+-  **Looking to collaborate on:** Spring Boot, Next.js, and local AI initiatives.
+-  **Looking for help with:** Open to code reviews and feedback on Android (Java) architecture and cross-platform applications.
+-  **Ask me about:** Android Development, Spring Boot, React/Next.js, and local LLM/VLM implementations.
+-  **Fun fact:** Singing while developing feels amazing! Guitar on lap, coffee on the table. ☕🎸
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhaneshRadhakrishnan&theme=github-dark" alt="GitHub Activity Graph" width="100%" />
