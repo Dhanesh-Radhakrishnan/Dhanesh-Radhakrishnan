@@ -7,14 +7,14 @@
 
 ---
 
-###  About Me
+### About Me
 
--  **Currently working on:** A privacy-first, fully local video surveillance platform running a two-stage AI pipeline (YOLO11n + moondream2) entirely on consumer hardware—no cloud, no data leaving the network.
--  **Currently learning:** System Architecture, Application Optimization, and Local AI Deployment.
--  **Looking to collaborate on:** Spring Boot, Next.js, and local AI initiatives.
--  **Looking for help with:** Open to code reviews and feedback on Android (Java) architecture and cross-platform applications.
--  **Ask me about:** Android Development, Spring Boot, React/Next.js, and local LLM/VLM implementations.
--  **Fun fact:** Singing while developing feels amazing! Guitar on lap, coffee on the table.
+- **Currently working on:** A privacy-first, fully local video surveillance platform running a two-stage AI pipeline (YOLO11n + moondream2) entirely on consumer hardware—no cloud, no data leaving the network.
+- **Currently learning:** System Architecture, Application Optimization, and Local AI Deployment.
+- **Looking to collaborate on:** Spring Boot, Next.js, and local AI initiatives.
+- **Looking for help with:** Open to code reviews and feedback on Android (Java) architecture and cross-platform applications.
+- **Ask me about:** Android Development, Spring Boot, React/Next.js, and local LLM/VLM implementations.
+- **Fun fact:** Singing while developing feels amazing! Guitar on lap, coffee on the table.
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-###  GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanesh-Radhakrishnan&theme=github-dark" alt="GitHub Activity Graph" width="100%" />
@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanesh-Radhakrishnan&theme=onedark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dhanesh-Radhakrishnan&theme=onedark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -63,6 +63,6 @@
   </a>
 </p>
 
-📁 **Portfolio & Projects:** [github.com/DhaneshRadhakrishnan](https://github.com/Dhanesh-Radhakrishnan)  
+📁 **Portfolio & Projects:** [github.com/Dhanesh-Radhakrishnan](https://github.com/Dhanesh-Radhakrishnan)  
 📄 **Resume / Experience:** [Google Docs Link](https://docs.google.com/document/d/1vA6k7j2FI5gBkd1M0LMfSiXf02zjffKZdgGQalHyq8M/edit?tab=t.0)  
 📝 **Articles & Updates:** [LinkedIn Activity](https://www.linkedin.com/in/dhanesh-radhakrishnan/)
