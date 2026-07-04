@@ -30,12 +30,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&theme=onedark" alt="Dhanesh's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dhanesh-Radhakrishnan&theme=onedark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&theme=onedark" alt="Dhanesh's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" height="170" />
 </p>
 
 ---
