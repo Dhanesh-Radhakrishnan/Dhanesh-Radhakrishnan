@@ -30,8 +30,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&theme=onedark" alt="Dhanesh's GitHub stats" height="170" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&theme=onedark" alt="Dhanesh's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dhanesh-Radhakrishnan&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
